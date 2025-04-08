@@ -4,8 +4,6 @@
  */
 package com.personal.miusampletest;
 
-import java.util.Arrays;
-
 /**
  *
  * @author kedk
